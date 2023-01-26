@@ -1,12 +1,16 @@
 +++
-title = "2<sup>nd</sup> post"
+title = "2nd</sup> post"
 date = 2023-01-25
 
 [taxonomies]
 tags = ["meta", "zola", "ssg", "org-mode", "markdown"]
 +++
 
-The first post said something like **hi.**
+The first post said something like **hi.**\
+And I made it editing a org file to html.
+
+<!-- more -->
+
 Right now I'm just tired of wanting things to just work, to having an easier time on most challenges that come up.
 It seems I must apply the [*principle of parsomony*](https://en.wikipedia.org/wiki/Occam%27s_razor) and just make exceptions on things that the expected effort is/was much larger than effort that is being uphelp.
 
