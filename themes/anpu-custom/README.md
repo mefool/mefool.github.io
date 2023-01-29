@@ -6,16 +6,10 @@ This is a port of the Hugo theme [Anubis](https://github.com/Mitrichius/hugo-the
 
 ## Usage
 
-In order to use the theme you need to clone this repository in your `themes` folder:
-
-```bash
-git clone https://github.com/zbrox/anpu-zola-theme.git themes/anpu
-```
-
-Then set your theme setting in `config.toml` to `anpu`:
+Set your theme setting in `config.toml` to `anpu`:
 
 ```toml
-theme = "anpu"
+theme = "anpu-custom"
 ```
 
 This theme requires both the `tags` and `categories` taxonomies.
