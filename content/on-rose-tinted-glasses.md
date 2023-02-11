@@ -24,8 +24,9 @@ unknown expected value until you find/estimate the average value of possible
 returns.
 
 ***value ideas and hopes.*** That's it, it might be all that you have. It might
-all seem absurd, but that's the way it is. [creativity][r#1] and a non-overly-critical
-outlook must be prized, knowing life isn't results and titles.
+all seem absurd, but that's the way it is. [creativity][r#1] and a
+non-overly-critical outlook must be prized, knowing life isn't results and
+titles.
 
 ---
 *to continue:* creativity; experience; aging; regret
