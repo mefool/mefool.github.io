@@ -1,9 +1,9 @@
 +++
-title = “on cold messages, and meaningless chats”
+title = "on cold messages, and meaningless chats"
 date = 2023-01-16
-summary = “on ignoring chances and just making wind”
+summary = "on ignoring chances and just making wind"
 [taxonomies]
-tags = [“communication”]
+tags = ["communication"]
 +++
 
 not bothering with introductions, or replies/answers just hoping it is seen/hear by someone. 
