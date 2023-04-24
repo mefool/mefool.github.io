@@ -3,7 +3,7 @@ title = "on taking breaks comma work and studies"
 date = 2023-04-16
 [taxonomies]
 tags = ["soft", "mental"]
-category = ["work"]
+categories = ["work"]
 +++
 
 a few things changed, and a break on taking breaks, working for now, as I hope to get things in order
