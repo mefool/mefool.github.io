@@ -1,13 +1,8 @@
 +++
-<<<<<<< HEAD
-title = “on cold messages, and meaningless chats”
-date = 2023-04-19
-summary = “on ignoring chances and just making wind”
-=======
 title = "on cold messages, and meaningless chats"
 date = 2023-01-16
 summary = "on ignoring chances and just making wind"
->>>>>>> cd6f6e5eec420b5ec729040f6074f12e3926af22
+
 [taxonomies]
 tags = ["communication"]
 +++
